@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Agola Color Schemes",
+		"AutoAligner",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Colorsublime",
+		"DashDoc",
+		"Emacs Tabstops",
+		"Emmet",
+		"Facebook Material Theme",
+		"File Rename",
+		"FileCommands",
+		"FileSystem Autocompletion",
+		"Highlight",
+		"Highlight Build Errors",
+		"Laravel Blade Highlighter",
+		"LESS",
+		"Less2Css",
+		"Liquid",
+		"Package Control",
+		"PHP Syntax Checker",
+		"Sass",
+		"SASS Build",
+		"SassBeautify",
+		"SCSS",
+		"SCSS Compiler",
+		"SideBarEnhancements",
+		"Simple FTP Deploy",
+		"Siteleaf Liquid Syntax",
+		"SublimeCodeIntel",
+		"Whitespace",
+		"WordPress"
+	]
+}
