@@ -1584,7 +1584,7 @@
 					"file": "/Users/wizard/Library/Application Support/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 536,
+						"buffer_size": 540,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -1663,6 +1663,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"Brows Package",
 					"chall",
 					"challenge",
 					")",
@@ -1789,8 +1790,7 @@
 					"ModuleRunner",
 					"class ModuleRunner",
 					"Mobule",
-					"Host",
-					"getMethodSource"
+					"Host"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1927,7 +1927,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 536,
+								"buffer_size": 540,
 								"regions":
 								{
 									"_emacs_tabstops_tabs_now_spaces":
@@ -1941,8 +1941,12 @@
 								"selection":
 								[
 									[
-										535,
-										0
+										157,
+										157
+									],
+									[
+										312,
+										312
 									]
 								],
 								"settings":
@@ -1953,12 +1957,42 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												181,
+												182
+											],
+											"2":
+											[
+												336,
+												337
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/dot.png",
+												"brackethighlighter.default"
+											],
+											"2":
+											[
+												"Packages/BracketHighlighter/icons/dot.png",
+												"brackethighlighter.default"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												138,
+												139
+											],
+											"2":
+											[
+												293,
+												294
+											]
 										},
 										"unmatched":
 										{
