@@ -1,2 +1,14 @@
-# sublime-text-3-configs
-This package includes almost everything Sublime Text 3 Requires for JS / Front-End Development.
+# Sublime Text 3 Configuration Files
+
+This is a collection of most of the Sublime Text Configuration files which are usually located on - `Preferences/Brows Package/Sublime Text 3` Folder.
+A customised version of FlatLand Dark is used here.
+
+## Usage
+Move to the Sublime Text 3 Directory. ( `Preferences/Brows Package/Sublime Text 3` )
+
+Download the repository and extract it on the Sublime Text 3 Directory or do the command from Sublime Text 3 Directory :
+
+```bash
+git clone https://github.com/therana/sublime-text-3-configs.git
+
+```

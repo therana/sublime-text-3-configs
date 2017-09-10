@@ -91,7 +91,7 @@
 		"/Volumes/Demo/ShapeBootstrap/oxygen-free-bootstrap-one-page-theme"
 	],
 	"last_version": 3126,
-	"last_window_id": 305,
+	"last_window_id": 308,
 	"log_indexing": false,
 	"settings":
 	{
@@ -657,13 +657,15 @@
 			},
 			"file_history":
 			[
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/Volumes/WORK/Fiverrr/Orkivllc/blog_WP/wp-content/themes/snowbird/assets/css/style.css",
 				"/Volumes/WORK/Fiverrr/gonate2402/css/styles.css",
 				"/Volumes/WORK/Fiverrr/gonate2402/index.html"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
@@ -680,6 +682,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"smooth",
+					"ansi",
+					"chall",
+					"challenge",
 					")",
 					"')\n",
 					"john",
@@ -803,11 +809,7 @@
 					",",
 					"ModuleRunner",
 					"class ModuleRunner",
-					"Mobule",
-					"Host",
-					"getMethodSource",
-					"ReflectionUtil",
-					"\t\t@"
+					"Mobule"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1582,7 +1584,16 @@
 					"file": "/Users/wizard/Library/Application Support/Sublime Text 3/README.md",
 					"settings":
 					{
-						"buffer_size": 121,
+						"buffer_size": 536,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Volumes/H/H/GitHub/tiktak/README.md",
+					"settings":
+					{
+						"buffer_size": 365,
 						"line_ending": "Unix"
 					}
 				}
@@ -1907,7 +1918,7 @@
 								"translation.y": 17041.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -1916,20 +1927,27 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 121,
+								"buffer_size": 536,
 								"regions":
 								{
+									"_emacs_tabstops_tabs_now_spaces":
+									{
+										"flags": 144,
+										"regions":
+										[
+										]
+									}
 								},
 								"selection":
 								[
 									[
-										0,
+										535,
 										0
 									]
 								],
 								"settings":
 								{
-									"_emacs_tabstops_tts_on_activate": true,
+									"auto_complete": false,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -1948,41 +1966,21 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
@@ -1998,6 +1996,26 @@
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -2011,6 +2029,115 @@
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Volumes/H/H/GitHub/tiktak/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 365,
+								"regions":
+								{
+									"_emacs_tabstops_tabs_now_spaces":
+									{
+										"flags": 144,
+										"regions":
+										[
+										]
+									}
+								},
+								"selection":
+								[
+									[
+										364,
+										185
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
