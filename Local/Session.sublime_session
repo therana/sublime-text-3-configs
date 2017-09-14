@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+<<<<<<< HEAD
 		"/Volumes/LAB/JavaScript/Practice",
 		"/Volumes/WORK/Fiverrr/Orkivllc/blog_WP/wp-content/themes/snowbird",
 		"/Users/vim/Downloads/ishothim.com",
@@ -92,6 +93,16 @@
 	],
 	"last_version": 3126,
 	"last_window_id": 305,
+=======
+		"/Users/wizard/Library/Application Support/Sublime Text 3/.git",
+		"/Volumes/H/H/GitHub/Guess-Game",
+		"/Volumes/H/H/GitHub/HTML Range Slider",
+		"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User",
+		"/Volumes/H/H/GitHub/tiktak"
+	],
+	"last_version": 3143,
+	"last_window_id": 14,
+>>>>>>> ST3
 	"log_indexing": false,
 	"settings":
 	{
@@ -102,6 +113,7 @@
 			{
 				"selected_items":
 				[
+<<<<<<< HEAD
 					[
 						"whi",
 						"whiteRabbit"
@@ -1565,11 +1577,174 @@
 						"wri",
 						"$writer〔variable〕"
 					]
+=======
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 368.0,
+				"last_filter": "color",
+				"selected_items":
+				[
+					[
+						"color",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 442.0
+			},
+			"console":
+			{
+				"height": 158.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1394.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+>>>>>>> ST3
 				]
 			},
 			"buffers":
 			[
 				{
+<<<<<<< HEAD
 					"file": "/Volumes/H/H/GitHub/therana.github.io/index.html",
 					"settings":
 					{
@@ -1583,6 +1758,12 @@
 					"settings":
 					{
 						"buffer_size": 121,
+=======
+					"contents": "<div id=\"slogan\">\n<div class=\"container\">\n<div class=\"slogan-wrappe headertopimg\">\n<h2 style=\"color: #313131;\"><a href=\"http://www.shopinri.com/ris-finest-businesses/\">Rhode Island's <span style=\"color: #25aae1;\">Finest Businesses</span></a></h2>\n<p style=\"color: #c4c4c4; text-align: center;\">^^ Click above for the list of winners ^^</p>\n&nbsp;\n<div>\n<div class=\"row\">\n<div class=\"col-sm-12 col-lg-3\"><a href=\"http://anthonysjewelers.com/\"><img class=\"alignnone size-medium wp-image-3357\" src=\"http://www.shopinri.com/wp-content/uploads/2017/03/anthonys.png\" alt=\"\" width=\"235\" height=\"150\" /></a></div>\n<div class=\"col-sm-12 col-lg-3\"><a href=\"http://thetacoshopri.com\"><img class=\"aligncenter\" src=\"http://www.thetacoshopri.com/wp-content/uploads/2015/02/TacoShop_logoH-e1423857356565.jpg\" alt=\"The Taco Shop\" width=\"200\" height=\"128\" /></a></div>\n<div class=\"col-sm-12 col-lg-3\"><a href=\"http://www.coffeeconnectionri.com/\"><img class=\"alignnone size-medium wp-image-3358\" src=\"http://www.shopinri.com/wp-content/uploads/2015/06/ShopInRI-Coffee.png\" alt=\"ShopInRI-Coffee\" width=\"235\" height=\"150\" /></a></div>\n<div class=\"col-sm-12 col-lg-3\"><a href=\"http://www.hillviewautobody.com/\"><img class=\"alignnone size-medium wp-image-3359\" src=\"http://www.shopinri.com/wp-content/uploads/2015/06/ShopInRI-Hillview.png\" alt=\"Hillview Auto Body\" width=\"235\" height=\"150\" /></a></div>\n<p style=\"text-align: center;\">Visit Our Sponsors by Clicking on Their Logo</p>\n\n</div>\n<div class=\"row\">\n<div class=\"col-lg-6 col-md-12 col-sm-12\">\n<p style=\"text-align: center;\">ShopInRI Winners 2016</p>\n<iframe src=\"https://www.youtube.com/embed/wObwPIhH3bQ\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n\n</div>\n<div class=\"col-lg-6 col-md-12 col-sm-12\">\n<p style=\"text-align: center;\">ShopInRI Winners 2015</p>\n<iframe src=\"https://www.youtube.com/embed/5QbTVWui3XM\" width=\"560\" height=\"315\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n\n</div>\n</div>\n<div class=\"row\">\n<h3 style=\"text-align: center;\">Read About This Months Selected Businesses</h3>\n</div>\n<div class=\"row\">\n<div class=\"col-lg-3 col-md-6 col-sm-12\">\n\n<a href=\"http://www.shopinri.com/2017/09/13/alaska-land-blockbuster-survived/\"></a>\n<h3 style=\"text-align: center;\">Alaska: the Land Where Blockbuster Survived</h3>\n</div>\n\n<div class=\"col-lg-3 col-md-6 col-sm-12\">\n\n<a href=\"http://www.shopinri.com/2017/09/13/18k-permit-stands-man-130m-treasure/\"><img src=\"http://www.newyorklife.com/\"/></a>\n<h3 style=\"text-align: center;\">$18K Permit Stands Between Man and $130M Treasure</h3>\n</div>\n<div class=\"col-lg-3 col-md-6 col-sm-12\">\n\n<a href=\"http://www.shopinri.com/2017/09/13/trump-big-decision-make-secret-jfk-files/\"><img src=\"http://www.shopinri.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-14-at-5.19.49-AM.png\" /></a>\n<h3 style=\"text-align: center;\">Trump Has Big Decision to Make on Secret JFK Files</h3>\n</div>\n<div class=\"col-lg-3 col-md-6 col-sm-12\">\n\n<a href=\"http://www.shopinri.com/2017/09/13/guy-dragged-plane-settles-united-2/\"><img src=\"http://www.shopinri.com/wp-content/uploads/2017/09/Screen-Shot-2017-09-14-at-5.22.59-AM.png\" /></a>\n<h3 style=\"text-align: center;\">Guy Dragged From Plane Settles With United</h3>\n</div>\n</div>\n</div>\n<div id=\"slogan\">\n<div class=\"container col-sm-12 col-md-12\">\n<div class=\"slogan-wrapper\">\n<h2 style=\"color: #313131;\">SHOPINRI <span style=\"color: #25aae1;\"> September 2017\n</span></h2>\n<p style=\"color: #25aae1;\"></p>\n\n</div>\n</div>\n</div>\n<div class=\"container col-sm-12 col-md-12\" style=\"z-index: 999\">[pdf vmode=\"\" issuu_pdf_id=\"170912204718-6852dc0d312644d295b6a481bf0466bb\" width=\"900\" height=\"980\" layout=\"\" bgcolor=\"FFFFFF\"]</div>\n<div id=\"slogan\">\n<div class=\"container col-sm-12\">\n<div class=\"slogan-wrapper col-sm-12\">\n<h2 style=\"color: #313131;\">SHOPINRI <span style=\"color: #25aae1;\">SPONSORED </span><span style=\"color: #25aae1;\">ARTICLES</span></h2>\n<p style=\"color: #25aae1;\"></p>\n\n</div>\n</div>\n</div>\n[recentpost items=\"4\" excerpt=\"yes\" showthumb=\"yes\" date=\"yes\" author=\"no\" comments=\"no\" cat_name=\"null\" ]\n</div>\n</div>\n</div>",
+					"settings":
+					{
+						"buffer_size": 4111,
+>>>>>>> ST3
 						"line_ending": "Unix"
 					}
 				}
@@ -1594,15 +1775,28 @@
 			"build_varint": "",
 			"command_palette":
 			{
+<<<<<<< HEAD
 				"height": 315.0,
 				"last_filter": "Package Control: ",
 				"selected_items":
 				[
 					[
+=======
+				"height": 368.0,
+				"last_filter": "color",
+				"selected_items":
+				[
+					[
+						"color",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+>>>>>>> ST3
 						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
+<<<<<<< HEAD
 						"Snippet: ",
 						"Snippet: rr"
 					]
@@ -1616,6 +1810,28 @@
 				[
 					"clear",
 					"whoami"
+=======
+						"theme",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 442.0
+			},
+			"console":
+			{
+				"height": 158.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+>>>>>>> ST3
 				]
 			},
 			"distraction_free":
@@ -1627,6 +1843,7 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+<<<<<<< HEAD
 			"file_history":
 			[
 				"/Volumes/WORK/Fiverrr/Orkivllc/blog_WP/wp-content/themes/snowbird/assets/css/style.css",
@@ -1645,6 +1862,32 @@
 					"",
 					"/Volumes/Envato/Fiverrr/Nic/N-1",
 					"/Volumes/Envato/Fiverrr/Only85/wp/wp-content/themes/stonegain/css"
+=======
+			"expanded_folders":
+			[
+				"/Volumes/H/H/GitHub/HTML Range Slider",
+				"/Volumes/H/H/GitHub/Guess-Game"
+			],
+			"file_history":
+			[
+				"/Volumes/H/H/GitHub/Guess-Game/index.html",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+>>>>>>> ST3
 				]
 			},
 			"find_state":
@@ -1652,6 +1895,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+<<<<<<< HEAD
 					"chall",
 					"challenge",
 					")",
@@ -1780,6 +2024,8 @@
 					"Mobule",
 					"Host",
 					"getMethodSource"
+=======
+>>>>>>> ST3
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1787,8 +2033,11 @@
 				"regex": false,
 				"replace_history":
 				[
+<<<<<<< HEAD
 					"",
 					"#f65759"
+=======
+>>>>>>> ST3
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1796,14 +2045,31 @@
 				"whole_word": false,
 				"wrap": true
 			},
+<<<<<<< HEAD
 			"groups":
 			[
 				{
 					"selected": 1,
+=======
+			"folders":
+			[
+				{
+					"path": "/Volumes/H/H/GitHub/HTML Range Slider"
+				},
+				{
+					"path": "/Volumes/H/H/GitHub/Guess-Game"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+>>>>>>> ST3
 					"sheets":
 					[
 						{
 							"buffer": 0,
+<<<<<<< HEAD
 							"file": "/Volumes/H/H/GitHub/therana.github.io/index.html",
 							"semi_transient": false,
 							"settings":
@@ -1917,6 +2183,12 @@
 							"settings":
 							{
 								"buffer_size": 121,
+=======
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4111,
+>>>>>>> ST3
 								"regions":
 								{
 								},
@@ -1924,11 +2196,16 @@
 								[
 									[
 										0,
+<<<<<<< HEAD
 										0
+=======
+										4111
+>>>>>>> ST3
 									]
 								],
 								"settings":
 								{
+<<<<<<< HEAD
 									"_emacs_tabstops_tts_on_activate": true,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
@@ -2008,6 +2285,12 @@
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+=======
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2205.0,
+>>>>>>> ST3
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2018,11 +2301,19 @@
 			],
 			"incremental_find":
 			{
+<<<<<<< HEAD
 				"height": 34.0
 			},
 			"input":
 			{
 				"height": 38.0
+=======
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 0.0
+>>>>>>> ST3
 			},
 			"layout":
 			{
@@ -2052,11 +2343,19 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
+<<<<<<< HEAD
 			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
 			"project": "",
 			"replace":
 			{
 				"height": 64.0
+=======
+			"position": "0 1023 455 893 602 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 76.0
+>>>>>>> ST3
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2066,6 +2365,7 @@
 				"selected_items":
 				[
 					[
+<<<<<<< HEAD
 						"init",
 						"login/core/init.php"
 					],
@@ -2228,18 +2528,30 @@
 					[
 						"style",
 						"Ryan-Redesign/css/style.css"
+=======
+						"",
+						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+>>>>>>> ST3
 					]
 				],
 				"width": 0.0
 			},
 			"select_project":
 			{
+<<<<<<< HEAD
 				"height": 0.0,
+=======
+				"height": 500.0,
+>>>>>>> ST3
 				"last_filter": "",
 				"selected_items":
 				[
 				],
+<<<<<<< HEAD
 				"width": 0.0
+=======
+				"width": 380.0
+>>>>>>> ST3
 			},
 			"select_symbol":
 			{
@@ -2258,12 +2570,20 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": false,
+<<<<<<< HEAD
 			"side_bar_width": 260.0,
+=======
+			"side_bar_width": 150.0,
+>>>>>>> ST3
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
+<<<<<<< HEAD
 			"window_id": 305,
+=======
+			"window_id": 13,
+>>>>>>> ST3
 			"workspace_name": ""
 		}
 	],

@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+<<<<<<< HEAD
 		"AdvancedNewFile",
 		"Agola Color Schemes",
 		"AutoAligner",
@@ -38,5 +39,15 @@
 		"SublimeCodeIntel",
 		"Whitespace",
 		"WordPress"
+=======
+		"A File Icon",
+		"ColorSchemeEditor",
+		"Emmet",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"Package Control",
+		"Theme - Flatland"
+>>>>>>> ST3
 	]
 }
