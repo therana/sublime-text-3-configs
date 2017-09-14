@@ -1,18 +1,18 @@
 {
 	"folder_history":
 	[
+		"/Volumes/H/H/GitHub/HTML Range Slider",
 		"/Users/wizard/Library/Application Support/Sublime Text 3/.git",
 		"/Volumes/H/H/GitHub/Guess-Game",
-		"/Volumes/H/H/GitHub/HTML Range Slider",
 		"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User",
 		"/Volumes/H/H/GitHub/tiktak"
 	],
 	"last_version": 3143,
-	"last_window_id": 14,
+	"last_window_id": 18,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 580.0,
+		"new_window_height": 1035.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -73,12 +73,13 @@
 			},
 			"file_history":
 			[
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Sublime Text.icns",
 				"/Volumes/H/H/GitHub/Guess-Game/index.html",
 				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
 				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
 				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
 			],
 			"find":
@@ -171,10 +172,301 @@
 			{
 			}
 		},
-		"new_window_width": 893.0
+		"new_window_width": 1916.0
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "  body {\n    width: 50%;\n    font-weight: 200;\n    margin: 0 auto;\n    background: #eee;\n    font-family:'helvetica neue';\n    -webkit-font-smoothing: antialiased;\n    text-align: center;\n\n  }\n  ::-webkit-input-placeholder { /* Chrome */\n  color: white;\n  }\n  :-ms-input-placeholder { /* IE 10+ */\n    color: white;\n  }\n  ::-moz-placeholder { /* Firefox 19+ */\n    color: white;\n    opacity: 1;\n  }\n  :-moz-placeholder { /* Firefox 4 - 18 */\n    color: white;\n    opacity: 1;\n  }\n  h1{\n    font-weight: 400;\n  }\n  .lastResult {\n    color: white;\n    padding: 3px;\n  }\n\n  input[type='range'] {\nwidth: 300px;\n    height: 32px;\n    overflow: hidden;\n    cursor: move;\n    outline: none;\n    margin: 0 auto;\n    display: block;\n}\n\ninput[type='range'],\ninput[type='range']::-webkit-slider-runnable-track,\ninput[type='range']::-webkit-slider-thumb {\n  -webkit-appearance: none;\n    background: none;\n}\ninput[type='range']::-webkit-slider-runnable-track {\n    background-color: #a9acb1;\n    border-radius: 15px;\n    display: block;\n    height: 4px;\n    position: relative;\n    width: 300px;\n}\n\ninput[type='range']:nth-child(2)::-webkit-slider-runnable-track{\n  background: none;\n}\n\ninput[type='range']::-webkit-slider-thumb {\n    background-color: #fff;\n    border-radius: 100%;\n    cursor: move;\n    height: 30px;\n    left: 0;\n    top: -13px;\n    position: absolute;\n    width: 30px;\n    -webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);\n    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);\n    position: relative;\n    z-index: 1;\n}\n.resetBG{\n  background: red !important;\n  cursor: pointer;\n}\n\ninput[type='range']:nth-child(1)::-webkit-slider-thumb{\n  z-index: 2;\n}\n\n.rangeslider{\n    position: relative;\n    height: 60px;\n    width: 300px;\n    display: block;\n    margin: 20px auto;\n}\n.rangeslider input{\n    position: absolute;\n}\n\n.rangeslider span{\n    position: absolute;\n    left: 0;\n}\n.rangeslider span.range_min{\n    margin-top: -5px;\n    left: -140px;\n    color: white;\n    padding: 10px 30px;\n    background: #017afd;\n    border-radius: 5px;\n    font-weight: bold;\n\n}\n.rangeslider span.range_max{\n    margin-top: -5px;\n    left: 140px;\n    color: white;\n    padding: 10px 30px;\n    background: #017afd;\n    border-radius: 5px;\n    font-weight: bold;\n}\n\n.rangeslider .right{\n   position: relative;\n   float: right;\n   margin-right: -5px;\n}\n.changable_text span{\n  color: #017afd;\n}\n",
+					"file": "/Volumes/H/H/GitHub/HTML Range Slider/style.css",
+					"file_size": 2374,
+					"file_write_time": 131497754900000000,
+					"settings":
+					{
+						"buffer_size": 2378,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/wizard/Library/Application Support/Sublime Text 3/README.md",
+					"settings":
+					{
+						"buffer_size": 1659,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 368.0,
+				"last_filter": "color",
+				"selected_items":
+				[
+					[
+						"color",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 442.0
+			},
+			"console":
+			{
+				"height": 158.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Volumes/H/H/GitHub/HTML Range Slider"
+			],
+			"file_history":
+			[
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Sublime Text.icns",
+				"/Volumes/H/H/GitHub/Guess-Game/index.html",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
+			],
+			"find":
+			{
+				"height": 50.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"range",
+					"rangge"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/Volumes/H/H/GitHub/HTML Range Slider"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Volumes/H/H/GitHub/HTML Range Slider/style.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2378,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2038,
+										2038
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3038.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/wizard/Library/Application Support/Sublime Text 3/README.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1659,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										1659
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1057.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 40.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 76.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
 	],
 	"workspaces":
 	{
