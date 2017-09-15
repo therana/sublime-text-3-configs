@@ -56,7 +56,7 @@ git clone https://github.com/therana/sublime-text-3-configs.git
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "word_wrap": true,
-    "save_on_focus_lost": false,
+    "save_on_focus_lost": true,
 
 }
 

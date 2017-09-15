@@ -1,6 +1,5 @@
 {
 	"auto_complete": true,
-	"auto_complete_commit_on_tab": true,
 	"auto_complete_with_fields": true,
 	"bold_folder_labels": true,
 	"caret_extra_bottom": 4,
@@ -32,12 +31,11 @@
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
+	"save_on_focus_lost": true,
 	"scroll_speed": 5.0,
 	"tab_size": 4,
 	"theme": "Flatland Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"save_on_focus_lost": false,
-
+	"word_wrap": true
 }
