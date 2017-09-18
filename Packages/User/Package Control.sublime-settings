@@ -6,7 +6,9 @@
 	"installed_packages":
 	[
 		"A File Icon",
+		"AdvancedNewFile",
 		"ColorSchemeEditor",
+		"Ecmascript Syntax",
 		"Emmet",
 		"Emmet Css Snippets",
 		"Git",
@@ -14,6 +16,9 @@
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
 		"Package Control",
+		"ReactJS",
+		"SideBarEnhancements",
+		"SublimeLinter",
 		"Theme - Flatland"
 	]
 }
