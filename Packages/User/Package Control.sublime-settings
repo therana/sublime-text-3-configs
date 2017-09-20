@@ -8,17 +8,21 @@
 		"A File Icon",
 		"AdvancedNewFile",
 		"ColorSchemeEditor",
+		"CSS Colors",
 		"Ecmascript Syntax",
 		"Emmet",
 		"Emmet Css Snippets",
-		"Git",
 		"Javascript Beautify",
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
+		"JSHint",
+		"Material Theme",
 		"Package Control",
 		"ReactJS",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jshint",
 		"Theme - Flatland"
 	]
 }

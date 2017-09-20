@@ -11,10 +11,10 @@
             <dict>
 
                 <key>background</key>
-                <string>#26292C</string>
+                <string>#212121</string>
 
                 <key>caret</key>
-                <string>#f4645f</string>
+                <string>#e74430</string>
 
                 <key>foreground</key>
                 <string>#F8F8F8</string>
@@ -23,7 +23,7 @@
                 <string>#7a8288</string>
 
                 <key>lineHighlight</key>
-                <string>#1E2123</string>
+                <string>#202325</string>
 
                 <key>selection</key>
                 <string>#515559</string>
@@ -893,16 +893,6 @@
         </dict>
     <dict>
             <key>name</key>
-            <string>SublimeLinter Warning</string>
-            <key>scope</key>
-            <string>sublimelinter.mark.warning</string>
-            <key>settings</key>
-            <dict>
-                <key>foreground</key>
-                <string>#EDBA00</string>
-            </dict>
-        </dict><dict>
-            <key>name</key>
             <string>SublimeLinter Gutter Mark</string>
             <key>scope</key>
             <string>sublimelinter.gutter-mark</string>
@@ -919,7 +909,17 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DA2000</string>
+                <string>#D02000</string>
+            </dict>
+        </dict><dict>
+            <key>name</key>
+            <string>SublimeLinter Warning</string>
+            <key>scope</key>
+            <string>sublimelinter.mark.warning</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#DDB700</string>
             </dict>
         </dict></array>
     <key>uuid</key>
