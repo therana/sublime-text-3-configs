@@ -6,7 +6,7 @@
   // ! PLEASE RESTART SUBLIME TEXT FOR THESE CHANGES TO TAKE EFFECT !
   // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-    "size": 5,
+    "size": 8,
     "opacity_on_hover": 0.5,
     "force_mode": true,
     "color_on_hover": "#f4645f",

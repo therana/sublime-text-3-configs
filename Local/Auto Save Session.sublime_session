@@ -15,7 +15,7 @@
 		"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User"
 	],
 	"last_version": 3143,
-	"last_window_id": 39,
+	"last_window_id": 40,
 	"log_indexing": false,
 	"settings":
 	{
@@ -79,16 +79,16 @@
 			"command_palette":
 			{
 				"height": 354.0,
-				"last_filter": "Package Control: ",
+				"last_filter": "package",
 				"selected_items":
 				[
 					[
-						"Package Control: ",
-						"Package Control: Install Package"
-					],
-					[
 						"package",
 						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
 					],
 					[
 						"install",
@@ -139,7 +139,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 528.0
+				"width": 480.0
 			},
 			"console":
 			{
@@ -194,25 +194,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"remove",
-					"alert",
-					"realtimeNumber",
-					"maxVal",
-					"minValue",
-					"Val",
-					"addevent",
-					"eventlist",
-					"randomNumber",
-					"changable_max",
-					"textContent",
-					"serGue",
-					"textContent",
-					"userGuess;",
-					"userGuess",
-					"userGuessSplited",
-					"userguess",
-					"userGuessSplited",
-					"datas"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -220,7 +201,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"bin"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -366,8 +346,16 @@
 					"file": "/Users/wizard/Desktop/badcode/bad.js",
 					"settings":
 					{
-						"buffer_size": 4571,
+						"buffer_size": 4572,
 						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/wizard/Desktop/badcode/package.json",
+					"settings":
+					{
+						"buffer_size": 189,
 						"line_ending": "Unix"
 					}
 				}
@@ -522,7 +510,7 @@
 			"groups":
 			[
 				{
-					"selected": 0,
+					"selected": 1,
 					"sheets":
 					[
 						{
@@ -550,7 +538,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
@@ -559,15 +547,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4571,
+								"buffer_size": 4572,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										522,
-										522
+										22,
+										22
 									]
 								],
 								"settings":
@@ -577,7 +565,35 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 393.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/wizard/Desktop/badcode/package.json",
+							"semi_transient": true,
+							"settings":
+							{
+								"buffer_size": 189,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -682,6 +698,401 @@
 			{
 			},
 			"window_id": 39,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"border-col",
+						"border-color"
+					],
+					[
+						"realt",
+						"realtimeNumber"
+					],
+					[
+						"real",
+						"realtimeNumber"
+					],
+					[
+						"maxv",
+						"maxVal"
+					],
+					[
+						"minv",
+						"minVal"
+					],
+					[
+						"getele",
+						"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+					],
+					[
+						"remove",
+						"removeAttribute\t( name: DOMString ): void Element"
+					],
+					[
+						"spl",
+						"split\t( separator: string, limit: int ): string String"
+					],
+					[
+						"create",
+						"createElement\t( localName: DOMString ): Element Document"
+					],
+					[
+						"rando",
+						"randomNumber"
+					],
+					[
+						"font-s",
+						"font-size"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "{\n  // A File Icon Preferences – Default\n  // ================================================================\n\n  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n  // ! PLEASE RESTART SUBLIME TEXT FOR THESE CHANGES TO TAKE EFFECT !\n  // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n  // File type icons have different colors by default. However you\n  // can make them single colored. Just provide your color in #RGB or\n  // #RRGGBB format (e.g. \"#fff\", \"#ABABAB\", etc.) or leave this\n  // option empty if multi colored icons better fit your needs.\n  \"color\": \"\",\n\n  // Provide your color in #RGB or #RRGGBB format if you want to use\n  // an other color for the hovered icon. Works only when you set\n  // a custom color in the `color` option.\n  \"color_on_hover\": \"\",\n\n  // Provide your color in #RRGGBB format if you want to use an other\n  // color for the selected icon. Works only when you set a custom\n  // color in the `color` option.\n  \"color_on_select\": \"\",\n\n  // The opacity level of the default icon state.\n  \"opacity\": 0.75,\n\n  // The opacity level of the hovered icon state.\n  \"opacity_on_hover\": 0.5,\n\n  // The opacity level of the selected icon state.\n  \"opacity_on_select\": 1.0,\n\n  // This is the default size of Sublime Text icons. However you can\n  // change it to better fit your custom theme.\n  \"size\": 8,\n\n  // Every theme adds its own sizes of the sidebar row padding.\n  // E.g. `Default.sublime-theme` provides [8, 3]. You can change it\n  // to better fit your icon size.\n  \"row_padding\": [],\n\n  // By default the package provides syntax aliases to apply such\n  // icons as `Gulpfile.js`, `webpack.config.js`, `package.json` and\n  // etc. If you don't want to use them you can apply icons for\n  // syntaxes only via setting this option to `false`.\n  \"aliases\": true,\n\n  // Set `true` to use icons provided by the package if your theme\n  // supports icon customization (icons provided by the theme will be\n  // used by default).\n  \"force_mode\": false,\n\n  // Set `true` when developing or debugging the package.\n  \"dev_mode\": false,\n\n  // A list of tags to filter the output of logging.\n  // Only takes its effect when `dev_mode` is `true`.\n  \"dev_trace\": [\n    \"standard\",\n    \"reload\"\n  ]\n}\n",
+					"file": "/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 2251,
+						"line_ending": "Unix",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 460,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"edit",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"linter mode",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"sublimt",
+						"SublimeLinter: Enable Debug Mode"
+					],
+					[
+						"sublimlinter",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"color",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"theme",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 158.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+				"/Volumes/H/H/GitHub/HTML Range Slider/README.md",
+				"/Volumes/H/H/GitHub/Starter/.gitignore",
+				"/Volumes/H/H/GitHub/therana.github.io/.gitignore",
+				"/Volumes/H/H/GitHub/tiktak/.gitignore",
+				"/Volumes/H/H/GitHub/HTML Range Slider/.gitignore",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Sublime Text.icns",
+				"/Volumes/H/H/GitHub/Guess-Game/index.html",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 139.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2251,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2251,
+										2251
+									]
+								],
+								"settings":
+								{
+									"edit_settings_other_view_id": 33,
+									"edit_settings_view": "base",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 460,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										333,
+										333
+									]
+								],
+								"settings":
+								{
+									"edit_settings_other_view_id": 32,
+									"edit_settings_view": "user",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 49.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 194.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"style",
+						"css/style.css"
+					],
+					[
+						"",
+						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 1,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 265.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 40,
 			"workspace_name": ""
 		}
 	],

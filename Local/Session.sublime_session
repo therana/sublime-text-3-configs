@@ -1,6 +1,7 @@
 {
 	"folder_history":
 	[
+		"/Users/wizard/Desktop/badcode",
 		"/Volumes/H/Downloads/JavaScript30-master 2",
 		"/Volumes/H/H/GitHub/Guess-Game",
 		"/Volumes/H/ES6/ES6 For Everyone/es6.io-master/02 - Arrow functions",
@@ -14,494 +15,12 @@
 		"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User"
 	],
 	"last_version": 3143,
-	"last_window_id": 38,
+	"last_window_id": 39,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_height": 1035.0,
 		"new_window_settings":
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"remove",
-						"removeAttribute\t( name: DOMString ): void Element"
-					],
-					[
-						"spl",
-						"split\t( separator: string, limit: int ): string String"
-					],
-					[
-						"create",
-						"createElement\t( localName: DOMString ): Element Document"
-					],
-					[
-						"rando",
-						"randomNumber"
-					],
-					[
-						"font-s",
-						"font-size"
-					]
-				]
-			},
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 370.0,
-				"last_filter": "Package Control: ",
-				"selected_items":
-				[
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
-					],
-					[
-						"color",
-						"Color Scheme Editor: Edit current color scheme"
-					],
-					[
-						"theme",
-						"Color Scheme Editor: Edit current color scheme"
-					],
-					[
-						"Package Control: remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"Package Control: inst",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 474.0
-			},
-			"console":
-			{
-				"height": 158.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
-				"/Volumes/H/H/GitHub/HTML Range Slider/README.md",
-				"/Volumes/H/H/GitHub/Starter/.gitignore",
-				"/Volumes/H/H/GitHub/therana.github.io/.gitignore",
-				"/Volumes/H/H/GitHub/tiktak/.gitignore",
-				"/Volumes/H/H/GitHub/HTML Range Slider/.gitignore",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Sublime Text.icns",
-				"/Volumes/H/H/GitHub/Guess-Game/index.html",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
-			],
-			"find":
-			{
-				"height": 40.0
-			},
-			"find_in_files":
-			{
-				"height": 139.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 40.0
-			},
-			"input":
-			{
-				"height": 49.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 200.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 76.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"style",
-						"css/style.css"
-					],
-					[
-						"",
-						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 248.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 1916.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"remove",
-						"removeAttribute\t( name: DOMString ): void Element"
-					],
-					[
-						"spl",
-						"split\t( separator: string, limit: int ): string String"
-					],
-					[
-						"create",
-						"createElement\t( localName: DOMString ): Element Document"
-					],
-					[
-						"rando",
-						"randomNumber"
-					],
-					[
-						"font-s",
-						"font-size"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/Volumes/H/Downloads/JavaScript30-master 2/04 - Array Cardio Day 1/index-FINISHED.html",
-					"settings":
-					{
-						"buffer_size": 4415,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 370.0,
-				"last_filter": "Package Control: ",
-				"selected_items":
-				[
-					[
-						"Package Control: ",
-						"Package Control: Remove Package"
-					],
-					[
-						"color",
-						"Color Scheme Editor: Edit current color scheme"
-					],
-					[
-						"theme",
-						"Color Scheme Editor: Edit current color scheme"
-					],
-					[
-						"Package Control: remo",
-						"Package Control: Remove Package"
-					],
-					[
-						"Package Control: inst",
-						"Package Control: Install Package"
-					]
-				],
-				"width": 474.0
-			},
-			"console":
-			{
-				"height": 158.0,
-				"history":
-				[
-					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/Volumes/H/Downloads/JavaScript30-master 2",
-				"/Volumes/H/Downloads/JavaScript30-master 2/04 - Array Cardio Day 1",
-				"/Volumes/H/Downloads/JavaScript30-master 2/07 - Array Cardio Day 2"
-			],
-			"file_history":
-			[
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
-				"/Volumes/H/H/GitHub/HTML Range Slider/README.md",
-				"/Volumes/H/H/GitHub/Starter/.gitignore",
-				"/Volumes/H/H/GitHub/therana.github.io/.gitignore",
-				"/Volumes/H/H/GitHub/tiktak/.gitignore",
-				"/Volumes/H/H/GitHub/HTML Range Slider/.gitignore",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Sublime Text.icns",
-				"/Volumes/H/H/GitHub/Guess-Game/index.html",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
-			],
-			"find":
-			{
-				"height": 40.0
-			},
-			"find_in_files":
-			{
-				"height": 139.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "/Volumes/H/Downloads/JavaScript30-master 2"
-				}
-			],
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/Volumes/H/Downloads/JavaScript30-master 2/04 - Array Cardio Day 1/index-FINISHED.html",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 4415,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3841,
-										3852
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 40.0
-			},
-			"input":
-			{
-				"height": 49.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 200.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"pinned_build_system": "",
-			"position": "0 0 0 1916 1057 0 0 1920 1057 ",
-			"project": "",
-			"replace":
-			{
-				"height": 76.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"style",
-						"css/style.css"
-					],
-					[
-						"",
-						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 500.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 380.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": false,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 248.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 34,
-			"workspace_name": ""
-		},
 		{
 			"auto_complete":
 			{
@@ -553,66 +72,6 @@
 					]
 				]
 			},
-			"buffers":
-			[
-				{
-					"file": "/Volumes/H/H/GitHub/Guess-Game/game.js",
-					"settings":
-					{
-						"buffer_size": 4517,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Volumes/H/H/GitHub/Guess-Game/.eslintrc",
-					"settings":
-					{
-						"buffer_size": 32,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Package Control Messages\n========================\n\nSublimeLinter-contrib-eslint\n----------------------------\n\n  SublimeLinter-eslint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to ESLint.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/roadhump/SublimeLinter-eslint\n\n\nSublimeLinter\n-------------\n\n  \n    ____        _     _ _                _     _       _\n   / ___| _   _| |__ | (_)_ __ ___   ___| |   (_)_ __ | |_ ___ _ __\n   \\___ \\| | | | '_ \\| | | '_ ` _ \\ / _ \\ |   | | '_ \\| __/ _ \\ '__|\n    ___) | |_| | |_) | | | | | | | |  __/ |___| | | | | ||  __/ |\n   |____/ \\__,_|_.__/|_|_|_| |_| |_|\\___|_____|_|_| |_|\\__\\___|_|\n  \n  \n  Welcome to SublimeLinter, a linter framework for Sublime Text 3.\n  \n                   * * * IMPORTANT! * * *\n  \n          SublimeLinter 3 is NOT a drop-in replacement for\n          earlier versions.\n  \n          Linters *NOT* included with SublimeLinter 3, \n          they must be installed separately.\n  \n          The settings are different.\n  \n                  * * * READ THE DOCS! * * *\n  \n  Otherwise you will never know how to install linters, nor will\n  you know about all of the great new features in SublimeLinter 3.\n  \n  For complete documentation on how to install and use SublimeLinter,\n  please see:\n  \n  http://www.sublimelinter.com\n  \n  \n                   _   _      _       _\n                  | | | | ___| |_ __ | |\n                  | |_| |/ _ \\ | '_ \\| |\n                  |  _  |  __/ | |_) |_|\n                  |_| |_|\\___|_| .__/(_)\n                               |_|\n  \n  \n  Hundreds of hours have been spent writing and documenting SublimeLinter\n  to make it the best it can be — easy to use, easy to configure,\n  easy to update, easy to extend. If you use SublimeLinter and feel\n  it is making your coding life better and easier, please consider\n  making a donation to help fund development and support.\n  \n  To donate: https://github.com/SublimeLinter/SublimeLinter3#share-the-love\n  \n  Thank you!\n\n\nSublimeLinter-contrib-eslint\n----------------------------\n\n  SublimeLinter-eslint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to ESLint.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/roadhump/SublimeLinter-eslint\n\n\nSublimeLinter-jshint\n--------------------\n\n  SublimeLinter-jshint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to jshint.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/SublimeLinter/SublimeLinter-jshint\n\n\nSublimeLinter-contrib-eslint\n----------------------------\n\n  SublimeLinter-eslint\n  -------------------------------\n  This linter plugin for SublimeLinter provides an interface to ESLint.\n  \n  ** IMPORTANT! **\n  \n  Before this plugin will activate, you *must*\n  follow the installation instructions here:\n  \n  https://github.com/roadhump/SublimeLinter-eslint\n",
-					"settings":
-					{
-						"buffer_size": 3178,
-						"line_ending": "Unix",
-						"name": "Package Control Messages",
-						"read_only": true,
-						"scratch": true
-					}
-				},
-				{
-					"file": "/Volumes/H/H/GitHub/Guess-Game/style.css",
-					"settings":
-					{
-						"buffer_size": 3250,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Volumes/H/H/GitHub/Guess-Game/index.html",
-					"settings":
-					{
-						"buffer_size": 982,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/Volumes/H/H/GitHub/Guess-Game/range-slide.js",
-					"settings":
-					{
-						"buffer_size": 1426,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
 			"build_system_choices":
 			[
 			],
@@ -699,10 +158,6 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/Volumes/H/H/GitHub/Guess-Game"
-			],
 			"file_history":
 			[
 				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
@@ -773,10 +228,295 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"incremental_find":
+			{
+				"height": 38.0
+			},
+			"input":
+			{
+				"height": 49.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 194.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"style",
+						"css/style.css"
+					],
+					[
+						"",
+						"~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 265.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1916.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"border-col",
+						"border-color"
+					],
+					[
+						"realt",
+						"realtimeNumber"
+					],
+					[
+						"real",
+						"realtimeNumber"
+					],
+					[
+						"maxv",
+						"maxVal"
+					],
+					[
+						"minv",
+						"minVal"
+					],
+					[
+						"getele",
+						"getElementsByClassName\t( classNames: DOMString ): HTMLCollection Document"
+					],
+					[
+						"remove",
+						"removeAttribute\t( name: DOMString ): void Element"
+					],
+					[
+						"spl",
+						"split\t( separator: string, limit: int ): string String"
+					],
+					[
+						"create",
+						"createElement\t( localName: DOMString ): Element Document"
+					],
+					[
+						"rando",
+						"randomNumber"
+					],
+					[
+						"font-s",
+						"font-size"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/wizard/Desktop/badcode/.eslintrc",
+					"settings":
+					{
+						"buffer_size": 138,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/wizard/Desktop/badcode/bad.js",
+					"settings":
+					{
+						"buffer_size": 4571,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "package",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: re",
+						"Package Control: Remove Package"
+					],
+					[
+						"edit",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"linter mode",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"sublimt",
+						"SublimeLinter: Enable Debug Mode"
+					],
+					[
+						"sublimlinter",
+						"SublimeLinter: Choose Lint Mode"
+					],
+					[
+						"color",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"theme",
+						"Color Scheme Editor: Edit current color scheme"
+					],
+					[
+						"Package Control: remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 480.0
+			},
+			"console":
+			{
+				"height": 158.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/wizard/Desktop/badcode"
+			],
+			"file_history":
+			[
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/ESLint/ESLint.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+				"/Volumes/H/H/GitHub/HTML Range Slider/README.md",
+				"/Volumes/H/H/GitHub/Starter/.gitignore",
+				"/Volumes/H/H/GitHub/therana.github.io/.gitignore",
+				"/Volumes/H/H/GitHub/tiktak/.gitignore",
+				"/Volumes/H/H/GitHub/HTML Range Slider/.gitignore",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Sublime Text.icns",
+				"/Volumes/H/H/GitHub/Guess-Game/index.html",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Flatland Dark/Flatland Dark.tmTheme",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/A File Icon/.sublime/A File Icon.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/wizard/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/Flatland Dark.tmTheme"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 139.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
 			"folders":
 			[
 				{
-					"path": "/Volumes/H/H/GitHub/Guess-Game"
+					"path": "/Users/wizard/Desktop/badcode"
 				}
 			],
 			"groups":
@@ -787,29 +527,27 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Volumes/H/H/GitHub/Guess-Game/game.js",
+							"file": "/Users/wizard/Desktop/badcode/.eslintrc",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 4517,
+								"buffer_size": 138,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										444,
-										444
+										90,
+										90
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (ESLint).sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 256.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -817,152 +555,32 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/Volumes/H/H/GitHub/Guess-Game/.eslintrc",
+							"file": "/Users/wizard/Desktop/badcode/bad.js",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 32,
+								"buffer_size": 4571,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										32,
-										32
-									]
-								],
-								"settings":
-								{
-									"open_with_edit": true,
-									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (ESLint).sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3178,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										263,
-										263
-									]
-								],
-								"settings":
-								{
-									"auto_indent": false,
-									"default_dir": "/Volumes/H/H/GitHub/Guess-Game",
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_width": 2,
-									"word_wrap": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 622.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/Volumes/H/H/GitHub/Guess-Game/style.css",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 3250,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										3095,
-										3095
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/CSS/CSS.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/Volumes/H/H/GitHub/Guess-Game/index.html",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 982,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										229,
-										229
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"tab_size": 2,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/Volumes/H/H/GitHub/Guess-Game/range-slide.js",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1426,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										377,
-										377
+										522,
+										522
 									]
 								],
 								"settings":
 								{
 									"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
-									"tab_size": 4,
+									"tab_size": 2,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 393.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 1,
 							"type": "text"
 						}
 					]
@@ -1063,7 +681,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 33,
+			"window_id": 39,
 			"workspace_name": ""
 		}
 	],
