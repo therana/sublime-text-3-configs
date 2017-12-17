@@ -7,22 +7,25 @@
 	[
 		"A File Icon",
 		"AdvancedNewFile",
+		"Babel",
+		"CloseOtherWindows",
+		"Color Highlighter",
 		"ColorSchemeEditor",
 		"CSS Colors",
 		"Ecmascript Syntax",
 		"Emmet",
 		"Emmet Css Snippets",
+		"HTMLBeautify",
 		"Javascript Beautify",
 		"JavaScript Completions",
 		"JavaScriptNext - ES6 Syntax",
-		"JSHint",
 		"Material Theme",
 		"Package Control",
 		"ReactJS",
+		"SCSS",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-contrib-eslint",
-		"SublimeLinter-jshint",
 		"Theme - Flatland"
 	]
 }

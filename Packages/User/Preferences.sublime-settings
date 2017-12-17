@@ -7,7 +7,7 @@
 	"caret_extra_top": 4,
 	"caret_extra_width": 1,
 	"caret_style": "blinking",
-	"color_scheme": "Packages/User/SublimeLinter/Flatland Dark (SL).tmTheme",
+	"color_scheme": "Packages/User/Color Highlighter/themes/Flatland Dark (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"detect_indentation": true,
 	"draw_white_space": "all",
